@@ -49,6 +49,10 @@ h2, h4 {
   flex-basis: 50%;
 }
 
+.btn:hover {
+  cursor: pointer;
+}
+
 /*** Social Media ***/
 #platforms {
   background-image: linear-gradient(#B41CB4, #2F032F);
